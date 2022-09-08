@@ -4,12 +4,19 @@ Level-Up League is a software development community hosted by OU Libraries. Whet
 There are a variety of roles within Level-Up League to help guide you on your way to software development.
 
 [Coder](https://github.com/OUETL/LevelUpLeague/blob/main/Role%20Sheets/Coder.pdf)
+
 [Asset Designer](https://github.com/OUETL/LevelUpLeague/blob/main/Role%20Sheets/AssetDesigner.pdf)
+
 [Storyteller](https://github.com/OUETL/LevelUpLeague/blob/main/Role%20Sheets/Storyteller.pdf)
+
 [Game Designer](https://github.com/OUETL/LevelUpLeague/blob/main/Role%20Sheets/GameDesigner.pdf)
+
 [Project Manager](https://github.com/OUETL/LevelUpLeague/blob/main/Role%20Sheets/ProjectManager.pdf)
-[Solo Developer](https://github.com/OUETL/LevelUpLeague/blob/main/Role%20Sheets/SoloDeveloper.pdf
+
+[Solo Developer](https://github.com/OUETL/LevelUpLeague/blob/main/Role%20Sheets/SoloDeveloper.pdf)
+
 [Skill Upper](https://github.com/OUETL/LevelUpLeague/blob/main/Role%20Sheets/SkillerUpper.pdf)
+
 [QA](https://github.com/OUETL/LevelUpLeague/blob/main/Role%20Sheets/QA.pdf)
 
 Take a look through the role sheets to see what interests you, or sounds most like what you would like to know more about.
